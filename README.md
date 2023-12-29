@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IndivarClear
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on some simple projects and some game collaboration
+- 📫 How to reach me : ahazzam.adam2@gmail.com
